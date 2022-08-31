@@ -8,3 +8,9 @@ sible, it must conform to the National Institute of Standards and Technology (NI
 1. Use of strong passwords to log onto the system.
 1. Encryption of data at rest.
 1. Transmission of information through secure channels (HTTPS).
+
+## The high level architecture of the application.
+![](sys architecture.png)
+
+## Partial app screen grab
+![](partial.png)
