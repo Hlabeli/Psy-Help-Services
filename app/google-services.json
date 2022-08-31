@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222987472077",
+    "project_id": "psyhelp-63b3f",
+    "storage_bucket": "psyhelp-63b3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222987472077:android:2f97b47ca088aa3450ad84",
+        "android_client_info": {
+          "package_name": "za.ac.uj.pyshelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222987472077-2pqub0igqoofl6eff49h7f90r924vnni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA04ewHFB0C0MNO9T0Wog8v4vlgyQJ1eIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222987472077-2pqub0igqoofl6eff49h7f90r924vnni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

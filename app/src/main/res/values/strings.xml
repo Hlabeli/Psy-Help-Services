@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">PysHelp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="books">Bookings</string>
+    <string name="announcements">Announcements</string>
+    <string name="tutor">Tutorials</string>
+    <string name="appointment">Appointment</string>
+    <string name="home">Home</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="settings">Settings</string>
+    <string name="person_profile">Profile</string>
+    <string name="welcome">Welcome to PsyCaD</string>
+    <string name="welcome_txt">PsyHelp provides counseling services to students and staff at the University of Johannesburg (UJ). Book a slot!</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="button">Button</string>
+    <string name="name">Full Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="con_password">Confirm Password</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="otpVerify">Please enter your code that we have send to you</string>
+    <string name="email_address">Email Address</string>
+    <string name="verify">Verify</string>
+    <string name="no_otp">Didn\'t receive OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="_27713340557">+27713340557</string>
+    <string name="google_mail">hlabeli@gmail.com</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="todo">TODO</string>
+    <string name="reset_pwd">Please enter your email to reset your password</string>
+    <string name="title_activity_answer">Answer</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="back">back</string>
+    <string name="title_activity_single_booked_appointment">single_booked_appointment</string>
+    <string name="appointment_date">Appointment Date</string>
+    <string name="cancel_appointment">Click Here to Cancel Appointment</string>
+    <string name="appointment_time">Appointment Time</string>
+    <string name="campus_name">Campus Name</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="select_date">Select Date</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hr08">08:20 AM</string>
+    <string name="please_sign_in_using_your_email_and_password">Please sign in using your email and password</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="bookings">Bookings</string>
+    <string name="book">Book</string>
+    <string name="campus_details">Campus Details</string>
+    <string name="toll_free">Toll Free</string>
+    <string name="block">Block</string>
+    <string name="location">Location</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="logout">Logout</string>
+    <string name="appointments">Appointments</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="btn_continue">Continue</string>
+    <string name="sello_gmail_com">sello@gmail.com</string>
+    <string name="title"><u>Title</u></string>
+    <string name="tutorial">Tutorial</string>
+
+    <string name="announcement">Announcement</string>
+</resources>
