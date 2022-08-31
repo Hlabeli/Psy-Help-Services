@@ -10,7 +10,7 @@ sible, it must conform to the National Institute of Standards and Technology (NI
 1. Transmission of information through secure channels (HTTPS).
 
 ## The high level architecture of the application.
-![plot](https://github.com/Hlabeli/Psy-Help-Services/blob/master/sys architecture.png)
+![plot](https://github.com/Hlabeli/Psy-Help-Services/blob/master/sys%20architecture.PNG)
 
 ## Partial app screen grab
 ![plot](https://github.com/Hlabeli/Psy-Help-Services/blob/master/partial.PNG)
