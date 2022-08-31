@@ -13,4 +13,5 @@ sible, it must conform to the National Institute of Standards and Technology (NI
 ![](sys architecture.png)
 
 ## Partial app screen grab
+![plot](https://github.com/Hlabeli/Psy-Help-Services/blob/master/partial.PNG)
 ![](partial.png)
